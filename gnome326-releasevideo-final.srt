@@ -1,0 +1,119 @@
+1
+00:00:03,258 --> 00:00:05,800
+GNOME 3.26 is here..
+
+2
+00:00:05,800 --> 00:00:09,092
+..packed by 6 months of exciting changes by the community.
+
+3
+00:00:10,008 --> 00:00:12,550
+The shell is GNOME's user interface..
+
+4
+00:00:13,383 --> 00:00:16,758
+..and this cycle it has received a visual overhaul of its search,..
+
+5
+00:00:16,842 --> 00:00:18,675
+..giving you a better overview.
+
+6
+00:00:20,592 --> 00:00:23,550
+GNOME's interface is configured from the control center,..
+
+7
+00:00:23,550 --> 00:00:25,008
+..which features a new sidebar.
+
+8
+00:00:25,217 --> 00:00:27,675
+..making it possible to jump between settings easily..
+
+9
+00:00:27,675 --> 00:00:29,133
+..to find what you are looking for.
+
+10
+00:00:30,092 --> 00:00:32,425
+A dedicated Wi-Fi area ensures easy..
+
+11
+00:00:32,425 --> 00:00:35,217
+..and logical access for managing wireless connections.
+
+12
+00:00:35,925 --> 00:00:38,383
+The Display settings are quicker to access,..
+
+13
+00:00:38,383 --> 00:00:39,842
+..so you can configure common setups..
+
+14
+00:00:39,842 --> 00:00:43,508
+.. such as single displays, joint displays and mirror.
+
+15
+00:00:45,800 --> 00:00:48,675
+Many improvements have also landed for GNOME Apps.
+
+16
+00:00:49,258 --> 00:00:52,508
+Simple Scan has had a redesign of its editing tools.
+
+17
+00:00:53,217 --> 00:00:57,675
+Polari now comes with an initial setup to get you started quickly..
+
+18
+00:00:57,675 --> 00:01:00,717
+..and has support for sending and receiving emojis.
+
+19
+00:01:02,133 --> 00:01:05,175
+Logs gained event compression for better overview.
+
+20
+00:01:06,217 --> 00:01:10,425
+Photos has new zoom controls,..
+
+21
+00:01:10,425 --> 00:01:13,217
+..and Disks gained the ability to resize partitions..
+
+22
+00:01:13,217 --> 00:01:14,758
+..and new disk image files.
+
+23
+00:01:18,133 --> 00:01:21,175
+Developers can look forward to big additions in Builder.
+
+24
+00:01:21,175 --> 00:01:23,883
+It features a new visual design and animations.
+
+25
+00:01:24,467 --> 00:01:26,425
+An initial built-in debugger enables you..
+
+26
+00:01:26,425 --> 00:01:28,758
+..to debug application threads and add break points.
+
+27
+00:01:29,550 --> 00:01:30,758
+..and much more.
+
+28
+00:01:33,842 --> 00:01:35,508
+GNOME is a worldwide project..
+
+29
+00:01:35,508 --> 00:01:38,342
+..and with your help we can push software freedom to the next level.
+
+30
+00:01:39,383 --> 00:01:42,092
+Have a chat with us or read more at gnome.org.

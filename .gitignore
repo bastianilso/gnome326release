@@ -1,15 +1,16 @@
 master-render--post/
 master-render/
-Music/
+music/
 render/
 renders/
-voice/
-recordings/
+voiceover/
+Recordings/
 noalpha/
 fonts/
 render-transitions/
  
 *.
+*.aup
 *.blend1
 *.exr
 *.xcf
